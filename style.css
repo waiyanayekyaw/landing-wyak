@@ -3,6 +3,7 @@
     background: url('images/home-bg.jpg');
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
     padding: 200px 0;
 }
 .btn-header{
